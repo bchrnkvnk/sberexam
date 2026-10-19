@@ -1,11 +1,11 @@
 {
-  "name": "Тренажёр по категорированию",
+  "name": "Тренажёр категорирования",
   "short_name": "Тренажёр",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0f766e",
+  "theme_color": "#0f7657",
   "lang": "ru-RU",
   "icons": [
     {
