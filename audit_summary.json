@@ -1,0 +1,35 @@
+{
+  "source_docs": [
+    "ИНСТРУМЕНТЫ_2024.docx",
+    "СВОД ответов юридические.docx",
+    "Финансы_2024.docx",
+    "Доп_экономич_вопросы_2024.docx"
+  ],
+  "source_total_records": 2640,
+  "previous_v3_items": 807,
+  "newly_created_items": 257,
+  "removed_from_previous_version_after_review": 32,
+  "net_increase": 225,
+  "included_total": 1032,
+  "excluded_total": 1608,
+  "categories": {
+    "Инструменты": 61,
+    "Юридические": 810,
+    "Финансы": 108,
+    "Доп. экономические": 53
+  },
+  "new_items_by_category": {
+    "Инструменты": 10,
+    "Юридические": 213,
+    "Финансы": 34
+  },
+  "original_multiple_choice": 53,
+  "synthesized_distractors": 979,
+  "constraints": [
+    "No guessed unknown answer keys",
+    "No ? placeholder or comma-separated letter keys",
+    "One correct answer in every new 4-option question",
+    "Existing original multiselect items retained"
+  ],
+  "caveat": "Неверные варианты составлены для подготовки, без сплошной экспертной юридической проверки; исходные ответы могут отражать законодательство 2024 года."
+}
